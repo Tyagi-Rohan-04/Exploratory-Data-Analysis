@@ -1,0 +1,1 @@
+# In this project, we performed an exploratory data analysis using libraries such as Numpy, Pandas, Matplotlib, Seaborn to gain insights from the dataset (Diwali Sales Dataset) for better understanding of the trends followed. 
